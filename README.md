@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋, Soy Jesica @jesidaiq</h1>
+<h1 align="center">Hola 👋, Soy Jesica</h1>
 <h3 align="center">Programadora - Estudiante de ingenieria Mecatronica. Apasionada por la creación visual y la codificación.</h3>
 - 👩‍💻 Actualmente, estoy incursionando en las tecnologías de **Back End**
 <h3 align="left">Connect with me:</h3>
